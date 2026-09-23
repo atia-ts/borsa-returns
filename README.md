@@ -4,6 +4,12 @@ A .NET command-line tool that turns trade exports from [ThndrX](https://thndr.ap
 
 The output is one static HTML file. It needs no server or database, and you can open it straight from disk.
 
+## Disclaimer
+
+- This is an independent, personal project. It is **not affiliated with, endorsed by or supported by Thndr or Borsa Halal**. Product names are used only to describe compatible data sources.
+- The dashboard is a record-keeping and visualization aid. It is **not financial, tax or religious advice**. Check purification amounts against your own trusted Sharia-screening source and scholarly guidance.
+- The bundled data is fictional and auto-generated for demonstration only.
+
 > [!IMPORTANT]
 > **All data in this repository is fictional.** The files under [`data/`](data/) and the sample dashboard and screenshots under [`docs/`](docs/) were **auto-generated for demonstration only**. The ticker symbols (`NILE`, `PYRA`, `SPHX`, …), prices, trades, dividends and Sharia-screening percentages are made up and do not describe any real company, security or portfolio.
 
@@ -310,9 +316,3 @@ All screenshots show the fictional sample data (run with a commission of `8156.1
 ```
 
 Data flow: **discover inputs → parse CSV/JSON → calculate metrics → calculate purification → render HTML → write output**. See [AGENTS.md](AGENTS.md) for a detailed architecture walkthrough.
-
-## Disclaimer
-
-- This is an independent, personal project. It is **not affiliated with, endorsed by or supported by Thndr or Borsa Halal**. Product names are used only to describe compatible data sources.
-- The dashboard is a record-keeping and visualization aid. It is **not financial, tax or religious advice**. Check purification amounts against your own trusted Sharia-screening source and scholarly guidance.
-- The bundled data is fictional and auto-generated for demonstration only.
