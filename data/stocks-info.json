@@ -1,0 +1,653 @@
+[
+  {
+    "symbol": "NILE",
+    "metricType": "haram_earnings_percentage",
+    "earnings": [
+      {
+        "year": 2023,
+        "quarter": 4,
+        "value": 11.77
+      },
+      {
+        "year": 2024,
+        "quarter": 1,
+        "value": 7.67
+      },
+      {
+        "year": 2024,
+        "quarter": 2,
+        "value": 9.195
+      },
+      {
+        "year": 2024,
+        "quarter": 3,
+        "value": 8.284
+      },
+      {
+        "year": 2024,
+        "quarter": 4,
+        "value": 10.854
+      },
+      {
+        "year": 2025,
+        "quarter": 1,
+        "value": 12.554
+      },
+      {
+        "year": 2025,
+        "quarter": 2,
+        "value": 12.208
+      },
+      {
+        "year": 2025,
+        "quarter": 3,
+        "value": 9.793
+      },
+      {
+        "year": 2025,
+        "quarter": 4,
+        "value": 10.338
+      },
+      {
+        "year": 2026,
+        "quarter": 1,
+        "value": 12.077
+      },
+      {
+        "year": 2026,
+        "quarter": 2,
+        "value": 7.827
+      }
+    ],
+    "coreActivityCompliance": "Compliant",
+    "interestBearingLoans": [
+      {
+        "year": 2025,
+        "quarter": 3,
+        "value": 12.29
+      },
+      {
+        "year": 2026,
+        "quarter": 1,
+        "value": 4.91
+      }
+    ]
+  },
+  {
+    "symbol": "PYRA",
+    "metricType": "haram_earnings_percentage",
+    "earnings": [
+      {
+        "year": 2023,
+        "quarter": 4,
+        "value": 11.031
+      },
+      {
+        "year": 2024,
+        "quarter": 1,
+        "value": 12.64
+      },
+      {
+        "year": 2024,
+        "quarter": 2,
+        "value": 16.323
+      },
+      {
+        "year": 2024,
+        "quarter": 3,
+        "value": 14.846
+      },
+      {
+        "year": 2024,
+        "quarter": 4,
+        "value": 16.284
+      },
+      {
+        "year": 2025,
+        "quarter": 1,
+        "value": 11.407
+      },
+      {
+        "year": 2025,
+        "quarter": 2,
+        "value": 11.245
+      },
+      {
+        "year": 2025,
+        "quarter": 3,
+        "value": 15.208
+      },
+      {
+        "year": 2025,
+        "quarter": 4,
+        "value": 14.22
+      },
+      {
+        "year": 2026,
+        "quarter": 1,
+        "value": 16.407
+      },
+      {
+        "year": 2026,
+        "quarter": 2,
+        "value": 11.534
+      }
+    ],
+    "coreActivityCompliance": "Compliant",
+    "interestBearingLoans": [
+      {
+        "year": 2025,
+        "quarter": 3,
+        "value": 5.85
+      },
+      {
+        "year": 2025,
+        "quarter": 4,
+        "value": 12.15
+      },
+      {
+        "year": 2026,
+        "quarter": 1,
+        "value": 15.71
+      }
+    ]
+  },
+  {
+    "symbol": "SPHX",
+    "metricType": "haram_earnings_percentage",
+    "earnings": [
+      {
+        "year": 2023,
+        "quarter": 4,
+        "value": 15.714
+      },
+      {
+        "year": 2024,
+        "quarter": 1,
+        "value": 10.863
+      },
+      {
+        "year": 2024,
+        "quarter": 2,
+        "value": 11.783
+      },
+      {
+        "year": 2024,
+        "quarter": 3,
+        "value": 11.928
+      },
+      {
+        "year": 2024,
+        "quarter": 4,
+        "value": 13.8
+      },
+      {
+        "year": 2025,
+        "quarter": 1,
+        "value": 10.881
+      },
+      {
+        "year": 2025,
+        "quarter": 2,
+        "value": 10.666
+      },
+      {
+        "year": 2025,
+        "quarter": 3,
+        "value": 13.642
+      },
+      {
+        "year": 2025,
+        "quarter": 4,
+        "value": 15.259
+      },
+      {
+        "year": 2026,
+        "quarter": 1,
+        "value": 11.392
+      },
+      {
+        "year": 2026,
+        "quarter": 2,
+        "value": 12.538
+      }
+    ],
+    "coreActivityCompliance": "Compliant",
+    "interestBearingLoans": [
+      {
+        "year": 2025,
+        "quarter": 3,
+        "value": 17.27
+      }
+    ]
+  },
+  {
+    "symbol": "LOTS",
+    "metricType": "haram_earnings_percentage",
+    "earnings": [
+      {
+        "year": 2023,
+        "quarter": 4,
+        "value": 2.373
+      },
+      {
+        "year": 2024,
+        "quarter": 1,
+        "value": 6.882
+      },
+      {
+        "year": 2024,
+        "quarter": 2,
+        "value": 7.61
+      },
+      {
+        "year": 2024,
+        "quarter": 3,
+        "value": 5.095
+      },
+      {
+        "year": 2024,
+        "quarter": 4,
+        "value": 5.21
+      },
+      {
+        "year": 2025,
+        "quarter": 1,
+        "value": 3.548
+      },
+      {
+        "year": 2025,
+        "quarter": 2,
+        "value": 4.024
+      },
+      {
+        "year": 2025,
+        "quarter": 3,
+        "value": 2.371
+      },
+      {
+        "year": 2025,
+        "quarter": 4,
+        "value": 2.158
+      },
+      {
+        "year": 2026,
+        "quarter": 1,
+        "value": 4.861
+      },
+      {
+        "year": 2026,
+        "quarter": 2,
+        "value": 3.919
+      }
+    ],
+    "coreActivityCompliance": "Compliant",
+    "interestBearingLoans": [
+      {
+        "year": 2025,
+        "quarter": 3,
+        "value": 9.03
+      },
+      {
+        "year": 2026,
+        "quarter": 1,
+        "value": 3.83
+      }
+    ]
+  },
+  {
+    "symbol": "OASI",
+    "metricType": "haram_earnings_percentage",
+    "earnings": [
+      {
+        "year": 2023,
+        "quarter": 4,
+        "value": 4.426
+      },
+      {
+        "year": 2024,
+        "quarter": 1,
+        "value": 4.018
+      },
+      {
+        "year": 2024,
+        "quarter": 2,
+        "value": 6.318
+      },
+      {
+        "year": 2024,
+        "quarter": 3,
+        "value": 6.513
+      },
+      {
+        "year": 2025,
+        "quarter": 1,
+        "value": 4.01
+      },
+      {
+        "year": 2025,
+        "quarter": 2,
+        "value": 5.072
+      },
+      {
+        "year": 2025,
+        "quarter": 3,
+        "value": 6.856
+      },
+      {
+        "year": 2025,
+        "quarter": 4,
+        "value": 6.881
+      },
+      {
+        "year": 2026,
+        "quarter": 1,
+        "value": 5.55
+      },
+      {
+        "year": 2026,
+        "quarter": 2,
+        "value": 6.615
+      }
+    ],
+    "coreActivityCompliance": "Compliant",
+    "interestBearingLoans": [
+      {
+        "year": 2025,
+        "quarter": 4,
+        "value": 10.85
+      },
+      {
+        "year": 2026,
+        "quarter": 2,
+        "value": 13.76
+      }
+    ]
+  },
+  {
+    "symbol": "DLTA",
+    "metricType": "haram_earnings_percentage",
+    "earnings": [
+      {
+        "year": 2023,
+        "quarter": 4,
+        "value": 7.61
+      },
+      {
+        "year": 2024,
+        "quarter": 1,
+        "value": 6.415
+      },
+      {
+        "year": 2024,
+        "quarter": 2,
+        "value": 2.835
+      },
+      {
+        "year": 2024,
+        "quarter": 3,
+        "value": 7.366
+      },
+      {
+        "year": 2024,
+        "quarter": 4,
+        "value": 5.48
+      },
+      {
+        "year": 2025,
+        "quarter": 1,
+        "value": 7.214
+      },
+      {
+        "year": 2025,
+        "quarter": 2,
+        "value": 7.305
+      },
+      {
+        "year": 2025,
+        "quarter": 3,
+        "value": 3.572
+      },
+      {
+        "year": 2025,
+        "quarter": 4,
+        "value": 7.661
+      },
+      {
+        "year": 2026,
+        "quarter": 1,
+        "value": 7.694
+      },
+      {
+        "year": 2026,
+        "quarter": 2,
+        "value": 6.707
+      }
+    ],
+    "coreActivityCompliance": "Compliant",
+    "interestBearingLoans": [
+      {
+        "year": 2026,
+        "quarter": 2,
+        "value": 19.82
+      }
+    ]
+  },
+  {
+    "symbol": "KRNK",
+    "metricType": "haram_earnings_percentage",
+    "earnings": [
+      {
+        "year": 2023,
+        "quarter": 4,
+        "value": 7.466
+      },
+      {
+        "year": 2024,
+        "quarter": 1,
+        "value": 9.722
+      },
+      {
+        "year": 2024,
+        "quarter": 2,
+        "value": 6.636
+      },
+      {
+        "year": 2024,
+        "quarter": 3,
+        "value": 8.739
+      },
+      {
+        "year": 2024,
+        "quarter": 4,
+        "value": 7.588
+      },
+      {
+        "year": 2025,
+        "quarter": 1,
+        "value": 8.218
+      },
+      {
+        "year": 2025,
+        "quarter": 2,
+        "value": 7.236
+      },
+      {
+        "year": 2025,
+        "quarter": 4,
+        "value": 9.983
+      },
+      {
+        "year": 2026,
+        "quarter": 1,
+        "value": 11.517
+      },
+      {
+        "year": 2026,
+        "quarter": 2,
+        "value": 9.962
+      }
+    ],
+    "coreActivityCompliance": "Compliant",
+    "interestBearingLoans": [
+      {
+        "year": 2025,
+        "quarter": 3,
+        "value": 2.34
+      },
+      {
+        "year": 2025,
+        "quarter": 4,
+        "value": 11.23
+      }
+    ]
+  },
+  {
+    "symbol": "LUXR",
+    "metricType": "haram_earnings_percentage",
+    "earnings": [
+      {
+        "year": 2023,
+        "quarter": 4,
+        "value": 8.497
+      },
+      {
+        "year": 2024,
+        "quarter": 1,
+        "value": 11.268
+      },
+      {
+        "year": 2024,
+        "quarter": 2,
+        "value": 13.119
+      },
+      {
+        "year": 2024,
+        "quarter": 3,
+        "value": 7.869
+      },
+      {
+        "year": 2024,
+        "quarter": 4,
+        "value": 11.052
+      },
+      {
+        "year": 2025,
+        "quarter": 1,
+        "value": 12.103
+      },
+      {
+        "year": 2025,
+        "quarter": 2,
+        "value": 10.2
+      },
+      {
+        "year": 2025,
+        "quarter": 3,
+        "value": 10.982
+      },
+      {
+        "year": 2026,
+        "quarter": 2,
+        "value": 12.688
+      }
+    ],
+    "coreActivityCompliance": "Compliant",
+    "interestBearingLoans": [
+      {
+        "year": 2025,
+        "quarter": 3,
+        "value": 16.95
+      },
+      {
+        "year": 2025,
+        "quarter": 4,
+        "value": 6.34
+      },
+      {
+        "year": 2026,
+        "quarter": 1,
+        "value": 17.2
+      },
+      {
+        "year": 2026,
+        "quarter": 2,
+        "value": 11.06
+      }
+    ]
+  },
+  {
+    "symbol": "SINA",
+    "metricType": "haram_earnings_percentage",
+    "earnings": [
+      {
+        "year": 2023,
+        "quarter": 4,
+        "value": 7.836
+      },
+      {
+        "year": 2024,
+        "quarter": 1,
+        "value": 5.884
+      },
+      {
+        "year": 2024,
+        "quarter": 2,
+        "value": 5.989
+      },
+      {
+        "year": 2024,
+        "quarter": 3,
+        "value": 5.18
+      },
+      {
+        "year": 2024,
+        "quarter": 4,
+        "value": 2.945
+      },
+      {
+        "year": 2025,
+        "quarter": 1,
+        "value": 3.896
+      },
+      {
+        "year": 2025,
+        "quarter": 2,
+        "value": 7.439
+      },
+      {
+        "year": 2025,
+        "quarter": 3,
+        "value": 7.769
+      },
+      {
+        "year": 2025,
+        "quarter": 4,
+        "value": 3.82
+      },
+      {
+        "year": 2026,
+        "quarter": 1,
+        "value": 6.367
+      },
+      {
+        "year": 2026,
+        "quarter": 2,
+        "value": 4.341
+      }
+    ],
+    "coreActivityCompliance": "Compliant",
+    "interestBearingLoans": [
+      {
+        "year": 2025,
+        "quarter": 3,
+        "value": 13.04
+      },
+      {
+        "year": 2026,
+        "quarter": 2,
+        "value": 12.58
+      }
+    ]
+  }
+]
